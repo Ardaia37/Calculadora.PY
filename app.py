@@ -24,7 +24,7 @@ Frame_corpo.grid(row=1, column=0)
 
 valor_texto =StringVar()
 
-
+# variavel todos valores
 todos_valores= ''
 
 #criando função de calculo
